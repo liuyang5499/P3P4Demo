@@ -5,4 +5,5 @@ print ()
 print("dev")
 
 >>>>>>> dev
-print("dev01")
+print("dev01"
+print(dev02)
